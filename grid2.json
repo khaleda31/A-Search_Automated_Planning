@@ -1,0 +1,121 @@
+[
+	[
+		{
+			"value": "S",
+			"level": 1,
+			"goal": false
+		},
+		{
+			"value": "A",
+			"level": 1,
+			"goal": false
+		},
+		{},
+		{
+			"value": "B",
+			"level": 2,
+			"goal": false
+		},
+		{
+			"value": "C",
+			"level": 1,
+			"goal": false
+		}
+	],
+	[
+		{
+			"value": "D",
+			"level": 2,
+			"goal": false
+		},
+		{
+			"value": "E",
+			"level": 1,
+			"goal": false
+		},
+		{
+			"value": "F",
+			"level": 1,
+			"goal": false
+		},
+		{
+			"value": "H",
+			"level": 2,
+			"goal": false
+		},
+		{
+			"value": "I",
+			"level": 1,
+			"goal": false
+		}
+	],
+	[
+		{
+			"value": "J",
+			"level": 1,
+			"goal": false
+		},
+		{
+			"value": "K",
+			"level": 1,
+			"goal": false
+		},
+		{},
+		{
+			"value": "L",
+			"level": 1,
+			"goal": false
+		},
+		{
+			"value": "M",
+			"level": 1,
+			"goal": false
+		}
+	],
+	[
+		{
+			"value": "N",
+			"level": 2,
+			"goal": false
+		},
+		{
+			"value": "O",
+			"level": 1,
+			"goal": false
+		},
+		{
+			"value": "P",
+			"level": 2,
+			"goal": false
+		},
+		{
+			"value": "Q",
+			"level": 1,
+			"goal": false
+		},
+		{
+			"value": "R",
+			"level": 2,
+			"goal": false
+		}
+	],
+	[
+		{
+			"value": "T",
+			"level": 2,
+			"goal": false
+		},
+		{},
+		{},
+		{
+			"value": "G",
+			"level": 1,
+			"goal": true
+		},
+		{
+			"value": "U",
+			"level": 2,
+			"goal": false
+		}
+	]
+]
